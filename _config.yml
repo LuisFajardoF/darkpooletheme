@@ -2,7 +2,7 @@
 title: md2tex
 url: https://luisfajardof.github.io/darkpooletheme
 paginate: 1
-baseurl: /darkpooletheme
+baseurl: ""
 permalink: pretty
 
 # Gems
