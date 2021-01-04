@@ -1,8 +1,8 @@
 # Setup
 title: md2tex
 url: https://luisfajardof.github.io/darkpooletheme
-paginate: 1
 paginate_path: "/darkpooletheme/page:num/"
+paginate: 1
 baseurl: /darkpooletheme
 permalink: pretty
 
